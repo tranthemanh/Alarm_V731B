@@ -1,0 +1,14 @@
+F:\Manh\OBA_App\Alarm-TPG\OBA\obj\Debug\OBA.csproj.AssemblyReference.cache
+F:\Manh\OBA_App\Alarm-TPG\OBA\obj\Debug\OBA.Form1.resources
+F:\Manh\OBA_App\Alarm-TPG\OBA\obj\Debug\OBA.Form2.resources
+F:\Manh\OBA_App\Alarm-TPG\OBA\obj\Debug\OBA.Form3.resources
+F:\Manh\OBA_App\Alarm-TPG\OBA\obj\Debug\OBA.Properties.Resources.resources
+F:\Manh\OBA_App\Alarm-TPG\OBA\obj\Debug\OBA.csproj.GenerateResource.cache
+F:\Manh\OBA_App\Alarm-TPG\OBA\obj\Debug\OBA.csproj.CoreCompileInputs.cache
+F:\Manh\OBA_App\Alarm-TPG\OBA\bin\Debug\OBA.exe.config
+F:\Manh\OBA_App\Alarm-TPG\OBA\bin\Debug\OBA.exe
+F:\Manh\OBA_App\Alarm-TPG\OBA\bin\Debug\OBA.pdb
+F:\Manh\OBA_App\Alarm-TPG\OBA\obj\Debug\OBA.exe
+F:\Manh\OBA_App\Alarm-TPG\OBA\obj\Debug\OBA.pdb
+F:\Manh\OBA_App\Alarm-TPG\OBA\obj\Debug\OBA.exe.config
+F:\Manh\OBA_App\Alarm-TPG\OBA\obj\Debug\OBA.TestOBA.resources
